@@ -1,0 +1,7 @@
+D:\Work\Лабораторные работы\2 ИСП\LR8\bin\Debug\LR8.exe.config
+D:\Work\Лабораторные работы\2 ИСП\LR8\bin\Debug\LR8.exe
+D:\Work\Лабораторные работы\2 ИСП\LR8\bin\Debug\LR8.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR8\obj\Debug\LR8.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR8\obj\Debug\LR8.exe
+D:\Work\Лабораторные работы\2 ИСП\LR8\obj\Debug\LR8.pdb
